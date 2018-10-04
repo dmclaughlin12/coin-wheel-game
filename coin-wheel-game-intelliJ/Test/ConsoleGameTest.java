@@ -1,5 +1,6 @@
 import coinwheelgame.ConsoleGame;
 import org.junit.Test;
+import org.junit.Ignore;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
